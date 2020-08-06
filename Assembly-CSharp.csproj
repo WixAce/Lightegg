@@ -58,21 +58,21 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Scripts\Lightegg\Scripts\Core\Appegg.cs" />
-     <Compile Include="Assets\Scripts\Lightegg\Scripts\Core\AppeggView.cs" />
+     <Compile Include="Assets\Scripts\Lightegg\Scripts\Core\LightEgg.cs" />
+     <Compile Include="Assets\Scripts\Lightegg\Scripts\Core\LightEggView.cs" />
      <Compile Include="Assets\Scripts\Lightegg\Scripts\Util\WebUtil.cs" />
      <Compile Include="Assets\Scripts\Lightegg\Scripts\Web\WKWebView.cs" />
      <Compile Include="Assets\Scripts\Lightegg\Scripts\Web\WebRequestCert.cs" />
      <Compile Include="Assets\Scripts\Lightegg\Scripts\Web\WebViewObject.cs" />
      <None Include="Assets\csc.rsp" />
  <Reference Include="UnityEngine.UI">
- <HintPath>/Users/sunegg/Desktop/Sunegg/Unity/Projects/Lightegg/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+ <HintPath>/Users/sunegg/Desktop/Sunegg/Unity/Projects/Core/Lightegg/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Rider.Editor">
- <HintPath>/Users/sunegg/Desktop/Sunegg/Unity/Projects/Lightegg/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+ <HintPath>/Users/sunegg/Desktop/Sunegg/Unity/Projects/Core/Lightegg/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.UI">
- <HintPath>/Users/sunegg/Desktop/Sunegg/Unity/Projects/Lightegg/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+ <HintPath>/Users/sunegg/Desktop/Sunegg/Unity/Projects/Core/Lightegg/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>/Applications/Unity/Hub/Editor/2019.3.0f3/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
