@@ -58,12 +58,14 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Scripts\Lightegg\Scripts\Core\LightEgg.cs" />
-     <Compile Include="Assets\Scripts\Lightegg\Scripts\Core\LightEggView.cs" />
-     <Compile Include="Assets\Scripts\Lightegg\Scripts\Util\WebUtil.cs" />
-     <Compile Include="Assets\Scripts\Lightegg\Scripts\Web\WKWebView.cs" />
-     <Compile Include="Assets\Scripts\Lightegg\Scripts\Web\WebRequestCert.cs" />
-     <Compile Include="Assets\Scripts\Lightegg\Scripts\Web\WebViewObject.cs" />
+     <Compile Include="Assets\Lightegg\Scripts\FragmentView.cs" />
+     <Compile Include="Assets\Lightegg\Scripts\FrameObject.cs" />
+     <Compile Include="Assets\Lightegg\Scripts\FrameView.cs" />
+     <Compile Include="Assets\Lightegg\Scripts\Lightegg.cs" />
+     <Compile Include="Assets\Lightegg\Scripts\LighteggUtil.cs" />
+     <Compile Include="Assets\Lightegg\Scripts\NotifyView.cs" />
+     <Compile Include="Assets\Lightegg\Scripts\RequestCert.cs" />
+     <Compile Include="Assets\Lightegg\Scripts\UILoadScene.cs" />
      <None Include="Assets\csc.rsp" />
  <Reference Include="UnityEngine.UI">
  <HintPath>/Users/sunegg/Desktop/Sunegg/Unity/Projects/Core/Lightegg/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>

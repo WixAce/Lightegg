@@ -6,14 +6,14 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scripts/Lightegg/Scenes/Entry.unity
+    path: Assets/Lightegg/Scenes/Entry.unity
     guid: fd4bcdd2d6b2c4a57a3ffa936037f957
   - enabled: 1
-    path: Assets/Scripts/Lightegg/Scenes/Web.unity
+    path: Assets/Lightegg/Scenes/Frame.unity
     guid: 51791a736066f4c1b83869850b9927c8
-  - enabled: 0
-    path: Assets/Appegg/Scenes/Test/Main.unity
-    guid: 7ffd17b42e5f34f75bcb49f28566fd36
+  - enabled: 1
+    path: Assets/Lightegg/Scenes/Fragment.unity
+    guid: 928a993d9a3b949b48b8a4f64922a8b2
   m_configObjects:
     com.unity.addressableassets: {fileID: 11400000, guid: 24943f027b0604c0a8b8714f57809711,
       type: 2}

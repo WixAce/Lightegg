@@ -6,26 +6,20 @@
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="csc.rsp" t="Include" />
-        <e p="Scripts" t="Include">
-          <e p="Lightegg" t="Include">
-            <e p="Editor" t="Include">
-              <e p="LightEggEditor.cs" t="Include" />
-              <e p="UnityWebViewPostprocessBuild.cs" t="Include" />
-            </e>
-            <e p="Scripts" t="Include">
-              <e p="Core" t="Include">
-                <e p="LightEgg.cs" t="Include" />
-                <e p="LightEggView.cs" t="Include" />
-              </e>
-              <e p="Util" t="Include">
-                <e p="WebUtil.cs" t="Include" />
-              </e>
-              <e p="Web" t="Include">
-                <e p="WebRequestCert.cs" t="Include" />
-                <e p="WebViewObject.cs" t="Include" />
-                <e p="WKWebView.cs" t="Include" />
-              </e>
-            </e>
+        <e p="Lightegg" t="Include">
+          <e p="Editor" t="Include">
+            <e p="LighteggEditor.cs" t="Include" />
+            <e p="LighteggPostprocessBuild.cs" t="Include" />
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="FragmentView.cs" t="Include" />
+            <e p="FrameObject.cs" t="Include" />
+            <e p="FrameView.cs" t="Include" />
+            <e p="Lightegg.cs" t="Include" />
+            <e p="LighteggUtil.cs" t="Include" />
+            <e p="NotifyView.cs" t="Include" />
+            <e p="RequestCert.cs" t="Include" />
+            <e p="UILoadScene.cs" t="Include" />
           </e>
         </e>
       </e>

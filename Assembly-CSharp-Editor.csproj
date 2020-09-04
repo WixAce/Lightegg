@@ -58,8 +58,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Scripts\Lightegg\Editor\LightEggEditor.cs" />
-     <Compile Include="Assets\Scripts\Lightegg\Editor\UnityWebViewPostprocessBuild.cs" />
+     <Compile Include="Assets\Lightegg\Editor\LighteggEditor.cs" />
+     <Compile Include="Assets\Lightegg\Editor\LighteggPostprocessBuild.cs" />
  <Reference Include="UnityEditor.TestRunner">
  <HintPath>/Users/sunegg/Desktop/Sunegg/Unity/Projects/Core/Lightegg/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
  </Reference>

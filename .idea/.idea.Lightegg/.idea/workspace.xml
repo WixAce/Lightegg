@@ -8,8 +8,16 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Lightegg/Scripts/Core/LightEggView.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Lightegg/Scripts/Core/LightEgg.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Lightegg/Scripts/FrameView.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Lightegg/Scripts/UILoadScene.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Lightegg/Scripts/FrameObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Lightegg/Scripts/RequestCert.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Lightegg/Scripts/LighteggUtil.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Lightegg/Scripts/NotifyView.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Lightegg/Scripts/Lightegg.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Lightegg/Editor/LighteggEditor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Lightegg/Scripts/FragmentView.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Lightegg/Editor/LighteggPostprocessBuild.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -20,7 +28,35 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Lightegg/Scripts/Core/AppeggView.cs" />
         <option value="$PROJECT_DIR$/../../../../Workshop/Trash/Egypt/Assets/Scripts/CardAnim.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Lightegg/Scripts/Core/LightEgg.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Lightegg/Editor/LighteggEditor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Lightegg/Editor/LightEggEditor.cs" />
+        <option value="$PROJECT_DIR$/../../../../../Workshop/SanguoApp/Assets/unityiOSBulid/IOS/Editor/GarbageCodeTool.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Lightegg/Scripts/Web/HFView.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Lightegg/Editor/HFEditor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Lightegg/Scripts/Web/H5RequestCert.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Lightegg/Scripts/Web/HFObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Lightegg/Scripts/Core/HFRoot.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Lightegg/Scripts/Core/HFView.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Lightegg/Scripts/Core/LightEggView.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Lightegg/Scripts/Core/HFNotifyView.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/HF/Editor/HFPostprocessBuild.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/HF/Scripts/Util/HFUtil.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/HF/Scripts/Web/HFPrivacyView.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Lightegg/Scripts/HFRequestCert.cs" />
+        <option value="$PROJECT_DIR$/Assets/Lightegg/Scripts/HFLoadScene.cs" />
+        <option value="$PROJECT_DIR$/Assets/Lightegg/Scripts/HFRoot.cs" />
+        <option value="$PROJECT_DIR$/Assets/Lightegg/Scripts/FragementView.cs" />
+        <option value="$PROJECT_DIR$/Assets/Lightegg/Scripts/FragmentView.cs" />
+        <option value="$PROJECT_DIR$/Assets/Lightegg/Scripts/FrameView.cs" />
+        <option value="$PROJECT_DIR$/Assets/Lightegg/Scripts/UINotifyView.cs" />
+        <option value="$PROJECT_DIR$/Assets/Lightegg/Scripts/NotifyView.cs" />
+        <option value="$PROJECT_DIR$/Assets/Lightegg/Scripts/FrameObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/Lightegg/Scripts/RequestCert.cs" />
+        <option value="$PROJECT_DIR$/Assets/Lightegg/Scripts/LighteggUtil.cs" />
+        <option value="$PROJECT_DIR$/Assets/Lightegg/Scripts/Lightegg.cs" />
+        <option value="$PROJECT_DIR$/Assets/Lightegg/Editor/LighteggEditor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Lightegg/Editor/LighteggPostprocessBuild.cs" />
+        <option value="$PROJECT_DIR$/Assets/Lightegg/Scripts/UILoadScene.cs" />
       </list>
     </option>
   </component>
@@ -51,4 +87,10 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="WindowStateProjectService">
+    <state x="561" y="232" width="670" height="676" key="search.everywhere.popup" timestamp="1598900837532">
+      <screen x="0" y="23" width="1792" height="953" />
+    </state>
+    <state x="561" y="232" width="670" height="676" key="search.everywhere.popup/0.23.1792.953@0.23.1792.953" timestamp="1598900837532" />
+  </component>
 </project>
